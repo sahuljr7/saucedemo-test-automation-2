@@ -1,0 +1,43 @@
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Eclipse specific files
+*.launch
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# IDE specific
+.vscode/
+.idea/
+*.iml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Test reports
+/surefire-reports/
+/test-output/
+/reports/
+/logs/
+
+# Temporary files
+*.cache
+*.zip
+*.tar.gz
+*.rar
+
+# SonarQube or build analysis
+/.scannerwork/
+
